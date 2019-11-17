@@ -134,7 +134,7 @@
 
 
     <div class="content container">
-          <img style="float: right;" src="/images/banner.png" align="right" width="300px">
+          <img style="float: right;" src="/~jorchard/uw/images/banner.png" align="right" width="300px">
       <div class="post">
   <br><br><br><br>
   <h1 class="post-title"></h1>
@@ -145,7 +145,7 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-11-17T01:03:01-05:00</updated>
+ <updated>2019-11-17T01:05:48-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
