@@ -16,9 +16,9 @@
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/public/css/poole.css">
-  <link rel="stylesheet" href="/public/css/syntax.css">
-  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="/~jorchard/uw/public/css/poole.css">
+  <link rel="stylesheet" href="/~jorchard/uw/public/css/syntax.css">
+  <link rel="stylesheet" href="/~jorchard/uw/public/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   <!-- Icons -->
@@ -145,7 +145,7 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-11-17T00:53:59-05:00</updated>
+ <updated>2019-11-17T01:03:01-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
