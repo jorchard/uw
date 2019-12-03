@@ -85,7 +85,7 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-12-02T21:59:16-05:00</updated>
+ <updated>2019-12-02T22:02:40-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -115,7 +115,7 @@
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Our paper was accepted for publication in &lt;i&gt;IEEE Transactions on Systems, Man, and Cybernetics: Systems&lt;/i&gt;. You can read it &lt;a href=&quot;https://cs.uwaterloo.ca/~jorchard/academic/WangOrchard_TransSMC_2017.pdf&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/TCDS_2019.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/images/TCDS_2019.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 
 </content-->
  </entry>
@@ -139,7 +139,7 @@
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Jeff was interviewed for &lt;a href=&quot;http://www.pirweb.org/en/&quot; target=&quot;_blank&quot;&gt;Partners in Research&lt;/a&gt; live event on the topic of “&lt;a href=&quot;https://youtu.be/2IJEA_GTYOQ&quot; target=&quot;_blank&quot;&gt;Why code?&lt;/a&gt;”. It was part of the Hour of Code event that takes place every year during Computer Science Education Week.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://youtu.be/2IJEA_GTYOQ&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/whycode.jpg&quot; alt=&quot;debate&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/2IJEA_GTYOQ&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/~jorchard/uw/images/whycode.jpg&quot; alt=&quot;WhyCode&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content-->
  </entry>
  
@@ -149,7 +149,7 @@
    <updated>2017-11-02T10:58:18-04:00</updated>
    <id>http://localhost:4000/jekyll/update/2017/11/02/best-paper</id>
    <!--content type="html"></content-->
-   <!--content type="html">&lt;p&gt;&lt;img src=&quot;/images/ICONIP.jpg&quot; alt=&quot;Photo&quot; /&gt;
+   <!--content type="html">&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/images/ICONIP.jpg&quot; alt=&quot;Photo&quot; /&gt;
 We won a best-paper award at &lt;a href=&quot;http://www.apnns.org/ICONIP2017/&quot; target=&quot;_blank&quot;&gt;ICONIP&lt;/a&gt; for our paper,&lt;/p&gt;
 
 &lt;blockquote&gt;
