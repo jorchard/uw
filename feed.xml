@@ -85,7 +85,7 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-12-21T10:59:21-05:00</updated>
+ <updated>2019-12-21T11:06:35-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -99,7 +99,7 @@
    <updated>2019-12-12T00:00:00-05:00</updated>
    <id>http://localhost:4000/jekyll/update/2019/12/12/TCDS</id>
    <!--content type="html"></content-->
-   <!--content type="html">&lt;p&gt;Prof. Lin Wang and Prof. Jeff Orchard have had their work on evolving neural learning rules accepted in the journal &lt;em&gt;IEEE Transactions on Cognitive and Developmental Systems&lt;/em&gt;.&lt;/p&gt;
+   <!--content type="html">&lt;p&gt;Prof. Lin Wang and Prof. Jeff Orchard have had their work on evolving neural learning rules accepted in the journal &lt;em&gt;IEEE Transactions on Cognitive and Developmental Systems&lt;/em&gt;. Check out the &lt;a href=&quot;http://www.cs.uwaterloo.ca/~jorchard/academic/WangOrchard_TCDS2019.pdf&quot; target=&quot;_blank&quot;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/~jorchard/uw/images/WangOrchard_TCDS2019.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
