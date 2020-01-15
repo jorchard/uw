@@ -63,6 +63,7 @@
       <a class="sidebar-nav-item" href="/~jorchard/uw/Research.html">Research</a>
       <a class="sidebar-nav-item" href="/~jorchard/uw/NeuroCog.html">NeuroCog Lab</a>
       <a class="sidebar-nav-item" href="/~jorchard/uw/Photos.html">Photos</a>
+      <a class="sidebar-nav-item" href="/~jorchard/uw/PhotoAlbums.html">Albums</a>
       <a class="sidebar-nav-item" href="/~jorchard/uw/Brain.html">His Brain</a>
       <a class="sidebar-nav-item" href="/~jorchard/uw/Random.html">Random</a>
       <a class="sidebar-nav-item" href="/~jorchard/uw/contact.html">Contact</a>
@@ -85,7 +86,7 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-01-14T20:13:05-05:00</updated>
+ <updated>2020-01-15T09:42:06-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
