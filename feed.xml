@@ -85,13 +85,25 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-01-16T14:11:35-05:00</updated>
+ <updated>2020-06-04T13:42:38-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Accepted: Neural Computation</title>
+   <link href="http://localhost:4000/jekyll/update/2020/06/04/NECO.html"/>
+   <updated>2020-06-04T00:00:00-04:00</updated>
+   <id>http://localhost:4000/jekyll/update/2020/06/04/NECO</id>
+   <!--content type="html"></content-->
+   <!--content type="html">&lt;p&gt;Master’s student Wei Sun and Prof. Jeff Orchard will publish their work on generative Predictive Coding (PC) in the journal &lt;em&gt;Neural Computation&lt;/em&gt;. The paper describes why PC networks are not usually generative (ie. not able to produce a reasonable input sample from a chosen output class). This is a vastly expanded version of our idea first presented at &lt;a href=&quot;/~jorchard/uw/jekyll/update/2019/10/31/NeurIPS.html&quot;&gt;NeurIPS in 2019&lt;/a&gt;. Stay tuned for a pre-print.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/images/SunOrchard_NECO20.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+</content-->
+ </entry>
  
  <entry>
    <title>Accepted: IEEE Trans. Cognitive and Developmental Systems</title>
