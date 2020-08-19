@@ -85,7 +85,7 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-08-19T15:46:11-04:00</updated>
+ <updated>2020-08-19T16:48:47-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -115,7 +115,7 @@
    <updated>2020-08-17T00:00:00-04:00</updated>
    <id>http://localhost:4000/jekyll/update/2020/08/17/SunThesis</id>
    <!--content type="html"></content-->
-   <!--content type="html">&lt;p&gt;Congratulations to Wei Sun for submitting his Master’s thesis. You can view it online soon.&lt;/p&gt;
+   <!--content type="html">&lt;p&gt;Congratulations to Wei Sun for submitting his Master’s thesis. You can view it &lt;a href=&quot;https://uwspace.uwaterloo.ca/handle/10012/16141&quot;&gt;online&lt;/a&gt;.&lt;/p&gt;
 </content-->
  </entry>
  
