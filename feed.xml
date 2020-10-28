@@ -85,7 +85,7 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-28T13:49:51-04:00</updated>
+ <updated>2020-10-28T13:51:41-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -101,7 +101,7 @@
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Nolan Shaw’s reserach on intrinsic plasticity was &lt;a href=&quot;https://cs.uwaterloo.ca/news/intrinsic-plasticity-improves-learning-in-dnns-and-provides-plausible-explanation-how-brains-operate-at-local-level&quot; target=&quot;_blank&quot;&gt;featured&lt;/a&gt; on the main web page of the Cheriton School of Computer Science. I am very proud of his work.&lt;/p&gt;
 
-&lt;p&gt;And that write-up was given a shout-out on the &lt;a href=&quot;https://technews.acm.org/archives.cfm?fo=2020-10-oct/oct-28-2020.html&quot;&gt;ACM TechNews&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And that write-up was given a shout-out on the &lt;a href=&quot;https://technews.acm.org/archives.cfm?fo=2020-10-oct/oct-28-2020.html&quot; target=&quot;_blank&quot;&gt;ACM TechNews&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Finding a phenomenon that is consistent with the way biological neurons actually behave and then using information theory to describe why they might be doing that is going to be an important field of research. Information theory provides a lens to see what could be happening.”  - Nolan Shaw&lt;/p&gt;
