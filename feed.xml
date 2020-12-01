@@ -85,13 +85,25 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-28T13:51:41-04:00</updated>
+ <updated>2020-12-01T16:52:41-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Speaking at NeuRIG</title>
+   <link href="http://localhost:4000/jekyll/update/2020/11/27/NeuRIG.html"/>
+   <updated>2020-11-27T00:00:00-05:00</updated>
+   <id>http://localhost:4000/jekyll/update/2020/11/27/NeuRIG</id>
+   <!--content type="html"></content-->
+   <!--content type="html">&lt;p&gt;Jeff was invited to speak at Lakehead University’s Neuroscience Research Interest Group (&lt;a href=&quot;https://neurig.lakeheadu.ca&quot; target=&quot;_blank&quot;&gt;NeuRIG&lt;/a&gt;). His talk was entitled &quot;Bridging between Computer and Cortex&quot;. You will be able to see the full video soon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/images/NeuRIG.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+</content-->
+ </entry>
  
  <entry>
    <title>Writeup feature for CS home page</title>
