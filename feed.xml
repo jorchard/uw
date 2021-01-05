@@ -85,7 +85,7 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-01-05T10:52:33-05:00</updated>
+ <updated>2021-01-05T11:08:43-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -102,6 +102,18 @@
    <!--content type="html">&lt;p&gt;Say hello to Mallory Snow, the Lab’s newest member. Mallory comes to us from &lt;a href=&quot;http://www.mun.ca&quot; target=&quot;_blank&quot;&gt;Memorial University&lt;/a&gt;, where she majored in Physics and Computational Mathematics. Welcome, Mallory!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/~jorchard/uw/images/Mallory.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+</content-->
+ </entry>
+ 
+ <entry>
+   <title>Teaching a robot</title>
+   <link href="http://localhost:4000/jekyll/update/2021/01/04/robot.html"/>
+   <updated>2021-01-04T00:00:00-05:00</updated>
+   <id>http://localhost:4000/jekyll/update/2021/01/04/robot</id>
+   <!--content type="html"></content-->
+   <!--content type="html">&lt;p&gt;Alex is using reinforcement learning (RL) to teach this robot how to reach and grab, with only visual feedback. This is goal-based RL, where the robot is given a picture of what it should do, and it has to move to achieve the pictured goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/images/Alex_with_robot.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
