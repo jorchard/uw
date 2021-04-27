@@ -85,13 +85,35 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-03-29T12:08:11-04:00</updated>
+ <updated>2021-04-27T14:51:55-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Alex is done!</title>
+   <link href="http://localhost:4000/jekyll/update/2021/04/23/AlexGrad.html"/>
+   <updated>2021-04-23T00:00:00-04:00</updated>
+   <id>http://localhost:4000/jekyll/update/2021/04/23/AlexGrad</id>
+   <!--content type="html"></content-->
+   <!--content type="html">&lt;p&gt;Congratulations to Alex van de Kleut for handing in his master’s thesis, and therefor completing his MMath degree.&lt;/p&gt;
+
+&lt;p&gt;His thesis explores how reinforcement learning methods can use images as input. He points out that some tasks that are often used to demonstrate image-encoding methods can actually be done effectively (or better) without those elaborate encodings.&lt;/p&gt;
+
+&lt;p&gt;You can check out his thesis,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;van de Kleut, Alexander, &lt;a href=&quot;http://hdl.handle.net/10012/16908&quot; target=&quot;_blank&quot;&gt;Learning-Free Methods for Goal Conditioned Reinforcement Learning from Images&lt;/a&gt;, &lt;em&gt;MMath thesis&lt;/em&gt;, University of Waterloo, April 2021.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/images/Alex_thesis_title.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We wish Alex the best as he finds himself a home in industry.&lt;/p&gt;
+</content-->
+ </entry>
  
  <entry>
    <title>Say hi to Mallory</title>
