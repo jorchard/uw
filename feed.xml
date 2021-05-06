@@ -85,13 +85,25 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-04-27T14:51:55-04:00</updated>
+ <updated>2021-05-06T07:14:17-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Internship for Nolan</title>
+   <link href="http://localhost:4000/jekyll/update/2021/05/06/Nolan_at_Huawei.html"/>
+   <updated>2021-05-06T00:00:00-04:00</updated>
+   <id>http://localhost:4000/jekyll/update/2021/05/06/Nolan_at_Huawei</id>
+   <!--content type="html"></content-->
+   <!--content type="html">&lt;p&gt;Excited to shift gears for a bit, Nolan will be doing a research internship at Huawei until the end of 2021. He will be developing methods for adversarial robustness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/images/Huawei_logo.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+</content-->
+ </entry>
  
  <entry>
    <title>Alex is done!</title>
