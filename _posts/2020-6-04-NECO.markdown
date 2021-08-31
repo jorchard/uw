@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Publication: Neural Computation"
+date:   2020-08-16
+categories: jekyll update
+excerpt: "My master's student, Wei Sun, and I published our work in the journal Neural Computation."
+image:	SunOrchard_NECO20.png
+---
+
+Master's student Wei Sun and Prof. Jeff Orchard published their work on generative Predictive Coding (PC) in the journal *Neural Computation*. The paper describes why PC networks are not usually generative (ie. not able to produce a reasonable input sample from a chosen output class). This is a vastly expanded version of our idea first presented at [NeurIPS in 2019]({{ site.baseurl }}/jekyll/update/2019/10/31/NeurIPS.html).
+
+> W Sun, J Orchard, "[A Predictive-Coding Network That Is Both Discriminative and Generative](https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01311){:target="_blank"}", *Neural Computation*, **32**(10):1-27, October 2020. ([pdf](http://www.cs.uwaterloo.ca/~jorchard/academic/SunOrchard_NECO2020.pdf){:target="_blank"})
+
+![Photo]({{ site.baseurl }}/images/SunOrchard_NECO20.png)

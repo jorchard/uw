@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "NeurIPS Workshop Paper"
+date:   2019-10-31 09:58:18 -0500
+categories: jekyll update
+excerpt: 'We will be presenting a paper at the workshop Perception as Generative Reasoning'
+image:	NeurIPS_2019.png
+---
+
+We are excited to be presenting some of our results about the generative properties of predictive coding networks at a workshop of the conference [_Neural Information Processing Systems 2019_](https://neurips.cc/){:target="_blank"} ([_NeurIPS_](https://neurips.cc/){:target="_blank"}). The workshop is entitled [_Perception as Generative Reasoning_](https://pgr-workshop.github.io/){:target="_blank"}.
+
+You can see the paper [here](https://pgr-workshop.github.io/img/PGR010.pdf){:target="_blank"}.
+
+![Photo]({{ site.baseurl }}/images/NeurIPS_2019.png)

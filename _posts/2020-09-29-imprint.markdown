@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Neuroscience: A computational problem"
+date:   2020-09-29
+categories: jekyll update
+excerpt: "Jeff was featured in an imprint article entitled <i>Neuroscience: A computational problem</i>"
+image:	imprint-logo.jpg
+---
+
+> When you actually see a hockey stick, the information goes through your eyeballs and travels through to your brain and part of your visual cortex will form a state that means a hockey stick to your visual system. When you imagine a hockey stick, part of that visual system takes the same state as if you are seeing it. The question is how?
+
+Jeff was interviewed for an article in the *im*print, UW's campus newspaper. The article, entitled [Neuroscience: A Computational Problem](http://uwimprint.ca/article/neuroscience-a-computational-problem/){:target="_blank"} was published on Sept. 29, 2020. It was written by [Kartikey Sinha](http://uwimprint.ca/article/author/kartikey-sinha/){:target="_blank"}.
+
+
+

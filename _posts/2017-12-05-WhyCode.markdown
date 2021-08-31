@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Interviewed for 'Why Code?'"
+date:   2017-12-05 09:58:18 -0500
+categories: jekyll update
+excerpt: 'Interview about why coding is fun and important'
+image:	whycode.jpg
+---
+
+
+Jeff was interviewed for [Partners in Research](http://www.pirweb.org/en/){:target="_blank"} live event on the topic of "[Why code?](https://youtu.be/2IJEA_GTYOQ){:target="_blank"}". It was part of the Hour of Code event that takes place every year during Computer Science Education Week.
+
+<a href="https://youtu.be/2IJEA_GTYOQ" target="_blank"><img src="{{ site.baseurl }}/images/whycode.jpg" 
+alt="WhyCode" width="240" height="180" border="1" /></a>

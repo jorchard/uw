@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Alex is done!"
+date:   2021-04-23
+categories: jekyll update
+excerpt: "Alex successfully completed his MMath degree."
+image:	Alex_grad_photo.jpg
+---
+
+
+Congratulations to Alex van de Kleut for handing in his master's thesis, and therefor completing his MMath degree.
+
+His thesis explores how reinforcement learning methods can use images as input. He points out that some tasks that are often used to demonstrate image-encoding methods can actually be done effectively (or better) without those elaborate encodings.
+
+You can check out his thesis,
+
+> van de Kleut, Alexander, [Learning-Free Methods for Goal Conditioned Reinforcement Learning from Images](http://hdl.handle.net/10012/16908){:target="_blank"}, *MMath thesis*, University of Waterloo, April 2021.
+
+![Photo]({{ site.baseurl }}/images/Alex_thesis_title.jpg)
+
+We wish Alex the best as he finds himself a home in industry.

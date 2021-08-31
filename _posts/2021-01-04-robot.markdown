@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Teaching a robot"
+date:   2021-01-04
+categories: jekyll update
+excerpt: "Alex is using reinforcement learning to teach a robot to reach"
+image:	Alex_with_robot.jpg
+---
+
+
+Alex is using reinforcement learning (RL) to teach this robot how to reach and grab, with only visual feedback. This is goal-based RL, where the robot is given a picture of what it should do, and it has to move to achieve the pictured goal.
+
+
+![Photo]({{ site.baseurl }}/images/Alex_with_robot.jpg)

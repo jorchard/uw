@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Say hi to Mallory"
+date:   2021-01-05
+categories: jekyll update
+excerpt: "We welcome the Lab's newest graduate student"
+image:	Mallory.jpg
+---
+
+
+Say hello to Mallory Snow, the Lab's newest member. Mallory comes to us from [Memorial University](http://www.mun.ca){:target="_blank"}, where she majored in Physics and Computational Mathematics. Welcome, Mallory!
+
+
+![Photo]({{ site.baseurl }}/images/Mallory.jpg)

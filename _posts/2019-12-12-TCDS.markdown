@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Accepted: IEEE Trans. Cognitive and Developmental Systems"
+date:   2019-12-12
+categories: jekyll update
+excerpt: 'Lin Wang and I have another paper accepted, this one in IEEE Trans. Cognitive and Developmental Systems'
+image:	WangOrchard_TCDS2019.png
+---
+
+Prof. Lin Wang and Prof. Jeff Orchard have had their work on evolving neural learning rules accepted in the journal *IEEE Transactions on Cognitive and Developmental Systems*. Check out the [PDF](http://www.cs.uwaterloo.ca/~jorchard/academic/WangOrchard_TCDS2019.pdf){:target="_blank"}.
+
+![Photo]({{ site.baseurl }}/images/WangOrchard_TCDS2019.png)

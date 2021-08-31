@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Speaking at NeuRIG"
+date:   2020-11-27
+categories: jekyll update
+excerpt: "Jeff spoke about \"Bridging between Computers and Cortex\" to Lakehead University's Neuroscience Research Interest Group"
+image:	NeuRIG.jpg
+---
+
+
+Jeff was invited to speak at Lakehead University's Neuroscience Research Interest Group ([NeuRIG](https://neurig.lakeheadu.ca){:target="_blank"}). His talk was entitled \"Bridging between Computer and Cortex\". You will be able to see the full video soon.
+
+
+![Photo]({{ site.baseurl }}/images/NeuRIG.jpg)

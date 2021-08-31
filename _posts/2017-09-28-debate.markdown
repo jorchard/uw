@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Debate: Is the mind a machine?"
+date:   2017-09-28 09:58:18 -0500
+categories: jekyll update
+excerpt: 'Jeff debated Matt Dickerson of Middlebury College.'
+image:	debate.png
+---
+
+
+On September 28, 2017, I took part in a debate with [Matt Dickerson](http://www.middlebury.edu/academics/cs/faculty/node/23361) of [Middlebury College](http://www.middlebury.edu/). The debate was organized by The Veritas Forum, and was on the topic of "Is the Mind a Machine?"
+
+<a href="https://www.youtube.com/watch?time_continue=4&v=wbUOfKruKqU&feature=emb_title" target="_blank"><img src="http://img.youtube.com/vi/wbUOfKruKqU/1.jpg" 
+alt="debate" width="240" height="180" border="1" /></a>
