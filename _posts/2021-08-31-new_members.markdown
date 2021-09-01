@@ -10,7 +10,7 @@ image:	welcome.jpg
 
 **Dr. Madeleine Bartlett** recently finished her PhD at the University of Plymouth, UK. She also has a MSc in Psychology from the University of Exeter. She will be doing postdoctoral research funded by the National Research Council (NRC), co-supervised by Terry Stewart. Dr. Bartlett started working with us earlier in 2021, but moved to Canada in July. Her project involves applying new neural processing strategies in reinforcement learning. She also enjoys building with Lego.
 
-**Dr. Michael Furlong** has a PhD in Robotics from CMU, as well as 2 MSc degrees (Neuroscience from Oxford, and Robotics from CMU). He started his academic career with a degree in Electrical and Computer Engineering at Memorial University. Oh, and he also spent 6 years as a researcher in the NASA Ames Intelligent Robotics Group.
+**Dr. Michael Furlong** has a PhD in Robotics from CMU, as well as 2 MSc degrees (Neuroscience from Oxford, and Robotics from CMU). He started his academic career with a degree in Electrical and Computer Engineering at Memorial University. Oh, and he also spent 6 years as a researcher in the NASA Ames Intelligent Robotics Group. Dr. Furlong also enjoys choral music and cooking.
 
 **Nicole Dumont** did an MMath degree here at Waterloo in Computational Mathematics. She also has a Bachelor's degree in Mathematics & Physics from McMaster University. She started her PhD with Chris Eliasmith in 2019, and will now join our lab. Her research involves advanced neurocomputing techniques such as Spatial Semantic Pointers (SSPs) and Legendre Memory Units (LMUs), and their use in navigation. Nicole's other interests include drawing and painting.
 

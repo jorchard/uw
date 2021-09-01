@@ -41,7 +41,7 @@ The Neurocognitive Computing Lab has the lofty goal of reverse-engineering the b
 <div class="column">
   <div class="card">
     <div class="container">
-      <img class="img-valign" src="images/Male-placeholder-headshot.png" alt="Michael F" style="height:200px">
+      <img class="img-valign" src="images/Michael_Furlong.jpg" alt="Michael F" style="height:200px">
       <span class="text1">Dr. Michael Furlong</span>
       <p class="title">Postdoctoral Fellow</p>
       <p>TBD</p>
