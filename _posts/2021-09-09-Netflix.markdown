@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Brian is Netflix Famous!"
+date:   2021-09-09
+categories: jekyll update
+excerpt: "Brian took part in the Copper's Hill Cheese Rolling race, and a photo ended up on Netflix."
+image:	Netflix_Brian.jpg
+---
+
+The famous -- and dangerous -- [Copper's Hill Cheese Rolling race](https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake){:target="_blank"} was featured in an episode of Netflix's *We Are The Champions* series. Brian happened to take part in the race the year they filmed, and ended up on the episode's cover photo.
+
+![Photo]({{ site.baseurl }}/images/Netflix.jpg)

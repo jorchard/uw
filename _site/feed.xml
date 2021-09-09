@@ -85,13 +85,25 @@
  <title>Jeff Orchard</title>
  <link href="http://localhost:4000/feed.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-09-08T10:51:45-04:00</updated>
+ <updated>2021-09-09T16:51:38-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Brian is Netflix Famous!</title>
+   <link href="http://localhost:4000/jekyll/update/2021/09/09/Netflix.html"/>
+   <updated>2021-09-09T00:00:00-04:00</updated>
+   <id>http://localhost:4000/jekyll/update/2021/09/09/Netflix</id>
+   <!--content type="html"></content-->
+   <!--content type="html">&lt;p&gt;The famous – and dangerous – &lt;a href=&quot;https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake&quot; target=&quot;_blank&quot;&gt;Copper’s Hill Cheese Rolling race&lt;/a&gt; was featured in an episode of Netflix’s &lt;em&gt;We Are The Champions&lt;/em&gt; series. Brian happened to take part in the race the year they filmed, and ended up on the episode’s cover photo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/Netflix.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+</content-->
+ </entry>
  
  <entry>
    <title>Welcome new lab members</title>
