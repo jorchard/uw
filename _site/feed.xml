@@ -16,14 +16,14 @@
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/~jorchard/uw/_site/public/css/poole.css">
-  <link rel="stylesheet" href="/~jorchard/uw/_site/public/css/syntax.css">
-  <link rel="stylesheet" href="/~jorchard/uw/_site/public/css/hyde.css">
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/~jorchard/uw/_sitepublic/apple-touch-icon-144-precomposed.png">
-                                 <link rel="shortcut icon" href="/~jorchard/uw/_sitepublic/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="public/favicon.ico">
 
   <!-- RSS -->
   <!--link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml"-->
@@ -37,11 +37,11 @@
     <div class="sidebar">
   <div class="container">
           <center>
-          <a target="_new" href="http://uwaterloo.ca"><img src="/~jorchard/uw/_site/images/UniversityOfWaterloo_logo_vert_rev_rgb.png" width="200px"></a></center>
+          <a target="_new" href="http://uwaterloo.ca"><img src="/images/UniversityOfWaterloo_logo_vert_rev_rgb.png" width="200px"></a></center>
 
     <div class="sidebar-about">
       <h1>
-        <a href="/~jorchard/uw/_site/">
+        <a href="/">
       Jeff Orchard
         </a>
       </h1>
@@ -58,14 +58,12 @@
 
       
 
-      <a class="sidebar-nav-item" href="/~jorchard/uw/_site/index.html">Home</a>
-      <a class="sidebar-nav-item" href="/~jorchard/uw/_site/Teaching.html">Teaching</a>
-      <a class="sidebar-nav-item" href="/~jorchard/uw/_site/Research.html">Research</a>
-      <a class="sidebar-nav-item" href="/~jorchard/uw/_site/NeuroCog.html">NeuroCog Lab</a>
-      <a class="sidebar-nav-item" href="/~jorchard/uw/_site/PhotoAlbums.html">Photos</a>
-      <a class="sidebar-nav-item" href="/~jorchard/uw/_site/Brain.html">His Brain</a>
-      <a class="sidebar-nav-item" href="/~jorchard/uw/_site/Random.html">Random</a>
-      <a class="sidebar-nav-item" href="/~jorchard/uw/_site/contact.html">Contact</a>
+      <a class="sidebar-nav-item" href="/index.html">Home</a>
+      <a class="sidebar-nav-item" href="/Research.html">Research</a>
+      <a class="sidebar-nav-item" href="/Teaching.html">Teaching</a>
+      <a class="sidebar-nav-item" href="/Brain.html">His Brain</a>
+      <a class="sidebar-nav-item" href="/Random.html">Random</a>
+      <a class="sidebar-nav-item" href="/contact.html">Contact</a>
     </nav>
 
     <p>&copy; 2021. All rights reserved.</p>
@@ -73,6 +71,8 @@
 </div>
 
 
+
+    <!--div class="banner"><img src="https://cs.uwaterloo.ca/~jorchard/uw/_site/images/banner.png"></div-->
 
     <div class="content container">
       <div class="post">
@@ -83,10 +83,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Jeff Orchard</title>
- <link href="http://localhost:4000/feed.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2021-09-09T16:51:38-04:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://localhost:4001/feed.xml" rel="self"/>
+ <link href="http://localhost:4001/"/>
+ <updated>2021-10-03T20:31:32-04:00</updated>
+ <id>http://localhost:4001</id>
  <author>
    <name></name>
    <email></email>
@@ -95,21 +95,21 @@
  
  <entry>
    <title>Brian is Netflix Famous!</title>
-   <link href="http://localhost:4000/jekyll/update/2021/09/09/Netflix.html"/>
+   <link href="http://localhost:4001/jekyll/update/2021/09/09/Netflix.html"/>
    <updated>2021-09-09T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2021/09/09/Netflix</id>
+   <id>http://localhost:4001/jekyll/update/2021/09/09/Netflix</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;The famous – and dangerous – &lt;a href=&quot;https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake&quot; target=&quot;_blank&quot;&gt;Copper’s Hill Cheese Rolling race&lt;/a&gt; was featured in an episode of Netflix’s &lt;em&gt;We Are The Champions&lt;/em&gt; series. Brian happened to take part in the race the year they filmed, and ended up on the episode’s cover photo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/Netflix.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Netflix.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>Welcome new lab members</title>
-   <link href="http://localhost:4000/jekyll/update/2021/08/31/new_members.html"/>
+   <link href="http://localhost:4001/jekyll/update/2021/08/31/new_members.html"/>
    <updated>2021-08-31T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2021/08/31/new_members</id>
+   <id>http://localhost:4001/jekyll/update/2021/08/31/new_members</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;&lt;strong&gt;Dr. Madeleine Bartlett&lt;/strong&gt; recently finished her PhD at the University of Plymouth, UK. She also has a MSc in Psychology from the University of Exeter. She will be doing postdoctoral research funded by the National Research Council (NRC), co-supervised by Terry Stewart. Dr. Bartlett started working with us earlier in 2021, but moved to Canada in July. Her project involves applying new neural processing strategies in reinforcement learning. She also enjoys building with Lego.&lt;/p&gt;
 
@@ -127,33 +127,33 @@
  
  <entry>
    <title>Award of Excellence: Mallory Snow</title>
-   <link href="http://localhost:4000/jekyll/update/2021/06/01/Mallory_awards.html"/>
+   <link href="http://localhost:4001/jekyll/update/2021/06/01/Mallory_awards.html"/>
    <updated>2021-06-01T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2021/06/01/Mallory_awards</id>
+   <id>http://localhost:4001/jekyll/update/2021/06/01/Mallory_awards</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;At her convocation from the Memorial University of Newfoundland (MUN), Mallory will be honoured with not just one, but &lt;strong&gt;two&lt;/strong&gt; &lt;a href=&quot;https://www.mun.ca/scholarships/scholarships/convocation.php&quot;&gt;University Medals for Academic Excellence (Grenfell Campus)&lt;/a&gt;, one for Computational Mathematics, and one for Physics. Join me in congratulating Mallory on her achievement. We’re proud to have her here at Waterloo now.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/mun-logo.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/mun-logo.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>Internship for Nolan</title>
-   <link href="http://localhost:4000/jekyll/update/2021/05/06/Nolan_at_Huawei.html"/>
+   <link href="http://localhost:4001/jekyll/update/2021/05/06/Nolan_at_Huawei.html"/>
    <updated>2021-05-06T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2021/05/06/Nolan_at_Huawei</id>
+   <id>http://localhost:4001/jekyll/update/2021/05/06/Nolan_at_Huawei</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Excited to shift gears for a bit, Nolan will be doing a research internship at Huawei until the end of 2021. He will be developing methods for adversarial robustness.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/Huawei_logo.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Huawei_logo.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>Alex is done!</title>
-   <link href="http://localhost:4000/jekyll/update/2021/04/23/AlexGrad.html"/>
+   <link href="http://localhost:4001/jekyll/update/2021/04/23/AlexGrad.html"/>
    <updated>2021-04-23T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2021/04/23/AlexGrad</id>
+   <id>http://localhost:4001/jekyll/update/2021/04/23/AlexGrad</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Congratulations to Alex van de Kleut for handing in his master’s thesis, and therefor completing his MMath degree.&lt;/p&gt;
 
@@ -165,7 +165,7 @@
   &lt;p&gt;van de Kleut, Alexander, &lt;a href=&quot;http://hdl.handle.net/10012/16908&quot; target=&quot;_blank&quot;&gt;Learning-Free Methods for Goal Conditioned Reinforcement Learning from Images&lt;/a&gt;, &lt;em&gt;MMath thesis&lt;/em&gt;, University of Waterloo, April 2021.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/Alex_thesis_title.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Alex_thesis_title.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We wish Alex the best as he finds himself a home in industry.&lt;/p&gt;
 </content-->
@@ -173,45 +173,45 @@
  
  <entry>
    <title>Say hi to Mallory</title>
-   <link href="http://localhost:4000/jekyll/update/2021/01/05/Mallory.html"/>
+   <link href="http://localhost:4001/jekyll/update/2021/01/05/Mallory.html"/>
    <updated>2021-01-05T00:00:00-05:00</updated>
-   <id>http://localhost:4000/jekyll/update/2021/01/05/Mallory</id>
+   <id>http://localhost:4001/jekyll/update/2021/01/05/Mallory</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Say hello to Mallory Snow, the Lab’s newest member. Mallory comes to us from &lt;a href=&quot;http://www.mun.ca&quot; target=&quot;_blank&quot;&gt;Memorial University&lt;/a&gt;, where she majored in Physics and Computational Mathematics. Welcome, Mallory!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/Mallory.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Mallory.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>Teaching a robot</title>
-   <link href="http://localhost:4000/jekyll/update/2021/01/04/robot.html"/>
+   <link href="http://localhost:4001/jekyll/update/2021/01/04/robot.html"/>
    <updated>2021-01-04T00:00:00-05:00</updated>
-   <id>http://localhost:4000/jekyll/update/2021/01/04/robot</id>
+   <id>http://localhost:4001/jekyll/update/2021/01/04/robot</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Alex is using reinforcement learning (RL) to teach this robot how to reach and grab, with only visual feedback. This is goal-based RL, where the robot is given a picture of what it should do, and it has to move to achieve the pictured goal.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/Alex_with_robot.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Alex_with_robot.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>Speaking at NeuRIG</title>
-   <link href="http://localhost:4000/jekyll/update/2020/11/27/NeuRIG.html"/>
+   <link href="http://localhost:4001/jekyll/update/2020/11/27/NeuRIG.html"/>
    <updated>2020-11-27T00:00:00-05:00</updated>
-   <id>http://localhost:4000/jekyll/update/2020/11/27/NeuRIG</id>
+   <id>http://localhost:4001/jekyll/update/2020/11/27/NeuRIG</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Jeff was invited to speak at Lakehead University’s Neuroscience Research Interest Group (&lt;a href=&quot;https://neurig.lakeheadu.ca&quot; target=&quot;_blank&quot;&gt;NeuRIG&lt;/a&gt;). His talk was entitled &quot;Bridging between Computer and Cortex&quot;. You will be able to see the full video soon.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/NeuRIG.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/NeuRIG.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>Writeup feature for CS home page</title>
-   <link href="http://localhost:4000/jekyll/update/2020/10/26/CSfeature.html"/>
+   <link href="http://localhost:4001/jekyll/update/2020/10/26/CSfeature.html"/>
    <updated>2020-10-26T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2020/10/26/CSfeature</id>
+   <id>http://localhost:4001/jekyll/update/2020/10/26/CSfeature</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Nolan Shaw’s reserach on intrinsic plasticity was &lt;a href=&quot;https://cs.uwaterloo.ca/news/intrinsic-plasticity-improves-learning-in-dnns-and-provides-plausible-explanation-how-brains-operate-at-local-level&quot; target=&quot;_blank&quot;&gt;featured&lt;/a&gt; on the main web page of the Cheriton School of Computer Science. I am very proud of his work.&lt;/p&gt;
 
@@ -221,16 +221,16 @@
   &lt;p&gt;“Finding a phenomenon that is consistent with the way biological neurons actually behave and then using information theory to describe why they might be doing that is going to be an important field of research. Information theory provides a lens to see what could be happening.”  - Nolan Shaw&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/banner_CS_feature.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/banner_CS_feature.jpg&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 
 </content-->
  </entry>
  
  <entry>
    <title>Neuroscience: A computational problem</title>
-   <link href="http://localhost:4000/jekyll/update/2020/09/29/imprint.html"/>
+   <link href="http://localhost:4001/jekyll/update/2020/09/29/imprint.html"/>
    <updated>2020-09-29T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2020/09/29/imprint</id>
+   <id>http://localhost:4001/jekyll/update/2020/09/29/imprint</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;blockquote&gt;
   &lt;p&gt;When you actually see a hockey stick, the information goes through your eyeballs and travels through to your brain and part of your visual cortex will form a state that means a hockey stick to your visual system. When you imagine a hockey stick, part of that visual system takes the same state as if you are seeing it. The question is how?&lt;/p&gt;
@@ -243,9 +243,9 @@
  
  <entry>
    <title>PLOS ONE Paper Published</title>
-   <link href="http://localhost:4000/jekyll/update/2020/08/18/ShawPLoSONE.html"/>
+   <link href="http://localhost:4001/jekyll/update/2020/08/18/ShawPLoSONE.html"/>
    <updated>2020-08-18T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2020/08/18/ShawPLoSONE</id>
+   <id>http://localhost:4001/jekyll/update/2020/08/18/ShawPLoSONE</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;We are excited to announce &lt;a href=&quot;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238454&quot; target=&quot;_blank&quot;&gt;our paper&lt;/a&gt; has been published in the &lt;em&gt;Public Library of Science: ONE&lt;/em&gt; journal (&lt;em&gt;PLOS ONE&lt;/em&gt;).&lt;/p&gt;
 
@@ -253,15 +253,15 @@
   &lt;p&gt;N Shaw, T Jackson, J Orchard, “Biological batch normalization: How intrinsic plasticity improves learning in deep neural networks”, &lt;em&gt;PLOS ONE&lt;/em&gt;, 15(9): e0238454, Sept 2020.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/Shaw_PLoSONE2020.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Shaw_PLoSONE2020.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>Wei Sun Thesis</title>
-   <link href="http://localhost:4000/jekyll/update/2020/08/17/SunThesis.html"/>
+   <link href="http://localhost:4001/jekyll/update/2020/08/17/SunThesis.html"/>
    <updated>2020-08-17T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2020/08/17/SunThesis</id>
+   <id>http://localhost:4001/jekyll/update/2020/08/17/SunThesis</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Congratulations to Wei Sun for submitting his Master’s thesis. It is entitled “Decay Makes Supervised Predictive Coding Generative”. You can view it &lt;a href=&quot;https://uwspace.uwaterloo.ca/handle/10012/16141&quot; target=&quot;_blank&quot;&gt;online&lt;/a&gt;.&lt;/p&gt;
 </content-->
@@ -269,64 +269,64 @@
  
  <entry>
    <title>Publication: Neural Computation</title>
-   <link href="http://localhost:4000/jekyll/update/2020/08/16/NECO.html"/>
+   <link href="http://localhost:4001/jekyll/update/2020/08/16/NECO.html"/>
    <updated>2020-08-16T00:00:00-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2020/08/16/NECO</id>
+   <id>http://localhost:4001/jekyll/update/2020/08/16/NECO</id>
    <!--content type="html"></content-->
-   <!--content type="html">&lt;p&gt;Master’s student Wei Sun and Prof. Jeff Orchard published their work on generative Predictive Coding (PC) in the journal &lt;em&gt;Neural Computation&lt;/em&gt;. The paper describes why PC networks are not usually generative (ie. not able to produce a reasonable input sample from a chosen output class). This is a vastly expanded version of our idea first presented at &lt;a href=&quot;/~jorchard/uw/_site/jekyll/update/2019/10/31/NeurIPS.html&quot;&gt;NeurIPS in 2019&lt;/a&gt;.&lt;/p&gt;
+   <!--content type="html">&lt;p&gt;Master’s student Wei Sun and Prof. Jeff Orchard published their work on generative Predictive Coding (PC) in the journal &lt;em&gt;Neural Computation&lt;/em&gt;. The paper describes why PC networks are not usually generative (ie. not able to produce a reasonable input sample from a chosen output class). This is a vastly expanded version of our idea first presented at &lt;a href=&quot;/jekyll/update/2019/10/31/NeurIPS.html&quot;&gt;NeurIPS in 2019&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;W Sun, J Orchard, “&lt;a href=&quot;https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01311&quot; target=&quot;_blank&quot;&gt;A Predictive-Coding Network That Is Both Discriminative and Generative&lt;/a&gt;”, &lt;em&gt;Neural Computation&lt;/em&gt;, &lt;strong&gt;32&lt;/strong&gt;(10):1-27, October 2020. (&lt;a href=&quot;http://www.cs.uwaterloo.ca/~jorchard/academic/SunOrchard_NECO2020.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/SunOrchard_NECO20.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/SunOrchard_NECO20.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>Accepted: IEEE Trans. Cognitive and Developmental Systems</title>
-   <link href="http://localhost:4000/jekyll/update/2019/12/12/TCDS.html"/>
+   <link href="http://localhost:4001/jekyll/update/2019/12/12/TCDS.html"/>
    <updated>2019-12-12T00:00:00-05:00</updated>
-   <id>http://localhost:4000/jekyll/update/2019/12/12/TCDS</id>
+   <id>http://localhost:4001/jekyll/update/2019/12/12/TCDS</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Prof. Lin Wang and Prof. Jeff Orchard have had their work on evolving neural learning rules accepted in the journal &lt;em&gt;IEEE Transactions on Cognitive and Developmental Systems&lt;/em&gt;. Check out the &lt;a href=&quot;http://www.cs.uwaterloo.ca/~jorchard/academic/WangOrchard_TCDS2019.pdf&quot; target=&quot;_blank&quot;&gt;PDF&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/WangOrchard_TCDS2019.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/WangOrchard_TCDS2019.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>NeurIPS Workshop Paper</title>
-   <link href="http://localhost:4000/jekyll/update/2019/10/31/NeurIPS.html"/>
+   <link href="http://localhost:4001/jekyll/update/2019/10/31/NeurIPS.html"/>
    <updated>2019-10-31T10:58:18-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2019/10/31/NeurIPS</id>
+   <id>http://localhost:4001/jekyll/update/2019/10/31/NeurIPS</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;We are excited to be presenting some of our results about the generative properties of predictive coding networks at a workshop of the conference &lt;a href=&quot;https://neurips.cc/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Neural Information Processing Systems 2019&lt;/em&gt;&lt;/a&gt; (&lt;a href=&quot;https://neurips.cc/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;NeurIPS&lt;/em&gt;&lt;/a&gt;). The workshop is entitled &lt;a href=&quot;https://pgr-workshop.github.io/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Perception as Generative Reasoning&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You can see the paper &lt;a href=&quot;https://pgr-workshop.github.io/img/PGR010.pdf&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/NeurIPS_2019.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/NeurIPS_2019.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>Journal Paper Accepted</title>
-   <link href="http://localhost:4000/jekyll/update/2019/09/29/TCDS_paper.html"/>
+   <link href="http://localhost:4001/jekyll/update/2019/09/29/TCDS_paper.html"/>
    <updated>2019-09-29T10:58:18-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2019/09/29/TCDS_paper</id>
+   <id>http://localhost:4001/jekyll/update/2019/09/29/TCDS_paper</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Our paper was accepted for publication in &lt;i&gt;IEEE Transactions on Systems, Man, and Cybernetics: Systems&lt;/i&gt;. You can read it &lt;a href=&quot;https://cs.uwaterloo.ca/~jorchard/academic/WangOrchard_TransSMC_2017.pdf&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/TCDS_2019.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/TCDS_2019.png&quot; alt=&quot;Photo&quot; /&gt;&lt;/p&gt;
 
 </content-->
  </entry>
  
  <entry>
    <title>Journal Paper Accepted</title>
-   <link href="http://localhost:4000/jekyll/update/2019/09/24/CivEng_paper.html"/>
+   <link href="http://localhost:4001/jekyll/update/2019/09/24/CivEng_paper.html"/>
    <updated>2019-09-24T10:58:18-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2019/09/24/CivEng_paper</id>
+   <id>http://localhost:4001/jekyll/update/2019/09/24/CivEng_paper</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Thanks to the hard work of Roya Cody, our paper was accepted for publication in &lt;i&gt;Journal of Computing in Civil Engineering&lt;/i&gt;.&lt;/p&gt;
 
@@ -335,23 +335,23 @@
  
  <entry>
    <title>Interviewed for 'Why Code?'</title>
-   <link href="http://localhost:4000/jekyll/update/2017/12/05/WhyCode.html"/>
+   <link href="http://localhost:4001/jekyll/update/2017/12/05/WhyCode.html"/>
    <updated>2017-12-05T09:58:18-05:00</updated>
-   <id>http://localhost:4000/jekyll/update/2017/12/05/WhyCode</id>
+   <id>http://localhost:4001/jekyll/update/2017/12/05/WhyCode</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;Jeff was interviewed for &lt;a href=&quot;http://www.pirweb.org/en/&quot; target=&quot;_blank&quot;&gt;Partners in Research&lt;/a&gt; live event on the topic of “&lt;a href=&quot;https://youtu.be/2IJEA_GTYOQ&quot; target=&quot;_blank&quot;&gt;Why code?&lt;/a&gt;”. It was part of the Hour of Code event that takes place every year during Computer Science Education Week.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://youtu.be/2IJEA_GTYOQ&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/whycode.jpg&quot; alt=&quot;WhyCode&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/2IJEA_GTYOQ&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/whycode.jpg&quot; alt=&quot;WhyCode&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content-->
  </entry>
  
  <entry>
    <title>Best Paper Award at ICONIP</title>
-   <link href="http://localhost:4000/jekyll/update/2017/11/02/best-paper.html"/>
+   <link href="http://localhost:4001/jekyll/update/2017/11/02/best-paper.html"/>
    <updated>2017-11-02T10:58:18-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2017/11/02/best-paper</id>
+   <id>http://localhost:4001/jekyll/update/2017/11/02/best-paper</id>
    <!--content type="html"></content-->
-   <!--content type="html">&lt;p&gt;&lt;img src=&quot;/~jorchard/uw/_site/images/ICONIP.jpg&quot; alt=&quot;Photo&quot; /&gt;
+   <!--content type="html">&lt;p&gt;&lt;img src=&quot;/images/ICONIP.jpg&quot; alt=&quot;Photo&quot; /&gt;
 We won a best-paper award at &lt;a href=&quot;http://www.apnns.org/ICONIP2017/&quot; target=&quot;_blank&quot;&gt;ICONIP&lt;/a&gt; for our paper,&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -363,9 +363,9 @@ We won a best-paper award at &lt;a href=&quot;http://www.apnns.org/ICONIP2017/&q
  
  <entry>
    <title>Debate: Is the mind a machine?</title>
-   <link href="http://localhost:4000/jekyll/update/2017/09/28/debate.html"/>
+   <link href="http://localhost:4001/jekyll/update/2017/09/28/debate.html"/>
    <updated>2017-09-28T10:58:18-04:00</updated>
-   <id>http://localhost:4000/jekyll/update/2017/09/28/debate</id>
+   <id>http://localhost:4001/jekyll/update/2017/09/28/debate</id>
    <!--content type="html"></content-->
    <!--content type="html">&lt;p&gt;On September 28, 2017, I took part in a debate with &lt;a href=&quot;http://www.middlebury.edu/academics/cs/faculty/node/23361&quot;&gt;Matt Dickerson&lt;/a&gt; of &lt;a href=&quot;http://www.middlebury.edu/&quot;&gt;Middlebury College&lt;/a&gt;. The debate was organized by The Veritas Forum, and was on the topic of “Is the Mind a Machine?”&lt;/p&gt;
 
