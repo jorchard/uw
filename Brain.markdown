@@ -13,7 +13,7 @@ The best way to get your hands on my MRI data is to download <a href="http://rsb
 <div class="column">
   <div class="card">
     <div class="container">
-      <a target="_new" href="http://www.cs.uwaterloo.ca/~jorchard/mri/rotating_jeff.gif"><img class="img-valign" src="http://cs.uwaterloo.ca/~jorchard/UWaterloo/My_Brain_files/rotating_jeff.jpg" alt="Rendering" style="height:200px"></a><br>
+      <a target="_new" href="http://www.cs.uwaterloo.ca/~jorchard/old/mri/rotating_jeff.gif"><img class="img-valign" src="http://cs.uwaterloo.ca/~jorchard/UWaterloo/My_Brain_files/rotating_jeff.jpg" alt="Rendering" style="height:200px"></a><br>
       <span class="text1">Head Rendering</span>
       <p>
       Animation of my head. Created using <a href="http://rsb.info.nih.gov/ij/" target="_new">ImageJ</a>.</p>
@@ -25,7 +25,7 @@ The best way to get your hands on my MRI data is to download <a href="http://rsb
 <div class="column">
   <div class="card">
     <div class="container">
-      <a target="_new" href="https://cs.uwaterloo.ca/~jorchard/mri/brain_rendering3.gif"><img class="img-valign" src="https://cs.uwaterloo.ca/~jorchard/UWaterloo/My_Brain_files/brain_rendering3.jpg" alt="Rendering" style="height:200px"></a><br>
+      <a target="_new" href="https://cs.uwaterloo.ca/~jorchard/old/mri/brain_rendering3.gif"><img class="img-valign" src="https://cs.uwaterloo.ca/~jorchard/UWaterloo/My_Brain_files/brain_rendering3.jpg" alt="Rendering" style="height:200px"></a><br>
       <span class="text1">Brain Extraction</span>
       <p>
       Animation of my brain. Created using <a href="http://rsb.info.nih.gov/ij/" target="_new">ImageJ</a>.</p>
@@ -70,15 +70,9 @@ The best way to get your hands on my MRI data is to download <a href="http://rsb
 <div class="column">
   <div class="card">
     <div class="container">
-      <a target="_new" href="https://cs.uwaterloo.ca/~jorchard/mri/face_rendering.jpg"><img class="img-valign" src="https://cs.uwaterloo.ca/~jorchard/mri/face_rendering.jpg" alt="Rendering" style="height:180px"></a>
-      <a target="_new" href="https://cs.uwaterloo.ca/~jorchard/mri/JeffFace.jpg"><img class="img-valign" src="https://cs.uwaterloo.ca/~jorchard/mri/JeffFace.jpg" alt="Rendering" style="height:180px"></a>
-      <a target="_new" href="https://cs.uwaterloo.ca/~jorchard/mri/JeffsBrain.jpg"><img class="img-valign" src="https://cs.uwaterloo.ca/~jorchard/mri/JeffsBrain.jpg" alt="Rendering" style="height:180px"></a>
+      <a target="_new" href="https://cs.uwaterloo.ca/~jorchard/old/mri/face_rendering.jpg"><img class="img-valign" src="https://cs.uwaterloo.ca/~jorchard/old/mri/face_rendering.jpg" alt="Rendering" style="height:180px"></a>
+      <a target="_new" href="https://cs.uwaterloo.ca/~jorchard/old/mri/JeffFace.jpg"><img class="img-valign" src="https://cs.uwaterloo.ca/~jorchard/old/mri/JeffFace.jpg" alt="Rendering" style="height:180px"></a>
+      <a target="_new" href="https://cs.uwaterloo.ca/~jorchard/old/mri/JeffsBrain.jpg"><img class="img-valign" src="https://cs.uwaterloo.ca/~jorchard/old/mri/JeffsBrain.jpg" alt="Rendering" style="height:180px"></a>
     </div>
   </div>
 </div>
-
-
-
-
-
-

@@ -19,7 +19,7 @@ title: Brief Biography
 13. Taught math at the Okanagan University College in Kelowna, BC, for 2 years.<br>
 This, I liked.<br>
 A bonus was that my girlfriend's family lives in the Okanagan Valley.
-13. I [married](http://www.cs.uwaterloo.ca/~jorchard/wedding/pictures.html) [Tricia Gee](http://www.cs.uwaterloo.ca/~jorchard/tricia.html) on July 3, 1999.
+13. I [married](http://www.cs.uwaterloo.ca/~jorchard/old/wedding/pictures.html) [Tricia Gee](http://www.cs.uwaterloo.ca/~jorchard/old/tricia.html) on July 3, 1999.
 14. Started my Ph.D. in [Computing science](http://www.cs.sfu.ca/) at [Simon Fraser University](http://www.sfu.ca/) in 1999, under the supervision of [Prof. Stella Atkins](https://www.sfu.ca/computing/people/emeriti/stellaatkins.html).
 15. I successfully defended my PhD [thesis](https://sfu-primo.hosted.exlibrisgroup.com/permalink/f/usv8m3/01SFUL_ALMA21138603080003611) on April 15, 2003.
 16. On July 1, 2003, I started my job as an Assistant Professor in the [School of Computer Science](http://cs.uwaterloo.ca) at the [University of Waterloo](http://uwaterloo.ca).  OK, so I'm headed back to Waterloo.  But this time, it's my choice.
@@ -33,7 +33,4 @@ A bonus was that my girlfriend's family lives in the Okanagan Valley.
 24. The first neuroscience [journal article](http://www.frontiersin.org/Journal/Abstract.aspx?s=237&name=computational_neuroscience&ART_DOI=10.3389/fncom.2013.00179&utm_source=Email_to_rerev_&utm_medium=Email&utm_content=T1_11.5e1_author1&utm_campaign=Email_publication) from my lab was published in 2013.
 25. Moved to Bristol, England (with family in tow) for 12-month sabbatical, 2013-2014. I was hosted by the [School of Experimental Psychology](http://www.bristol.ac.uk/psychology/), and was honoured with the title **IAS Benjamin Meaker Visiting Professor**.
 26. Moved back to Canada after my sabbatical.
-27. I am taking my family on another 12-month sabbatical, this time to the [University of Otago](https://www.otago.ac.nz/) in Dunedin, New Zealand, hosted by the [Artificial Intelligence Group](https://aigrp.otago.ac.nz/).
-
-
-
+27. I was supposed to taking my family on another 12-month sabbatical to New Zealand. However, the coronavirus pandemic hit just a few months before, so it's been delayed.
