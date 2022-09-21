@@ -61,6 +61,16 @@ My research aim is to uncover the computational and organizational mechanisms th
 
 <h2>Conference Contributions ("Confibutions")</h2>
 
+1. A Safron, Z Sheikhbahaee, N Hay, J Orchard, J Hoey, "[Value Cores for Inner and Outer Alignment: Simulating Personality Formation via Iterated Policy Selection and Preference Learning with Self-World Modeling Active Inference Agents](https://psyarxiv.com/k4cas/){:target="_blank"}", International Workshop on Active Inference, Sept 2022.
+
+1. M Bartlett, TC Stewart, J Orchard, "[Fast Online Reinforcement Learning with Biologically-Based State Representations](https://mathpsych.org/presentation/838){:target="_blank"}", _International Conference on Cognitive Modeling_, Toronto, July 2022.
+
+1. M Bartlett, J Orchard, TC Stewart, "Biologically-Based Neural Representations Enable Fast Online Shallow Reinforcement Learning", _CogSci_, Toronto, July 2022.
+
+1. M Snow, J Orchard, "Biological Softmax: Demonstrated in Modern Hopfield Networks", _CogSci_, Toronto, July 2022.
+
+1. N Dumont, J Orchard, C Eliasmith, "A model of path integration that connects neural and symbolic representation", _CogSci_, Toronto, July 2022.
+
 1. P Torabian, R Pradeep, J Orchard, B Tripp, "Comparison of Foveated Downsampling Techniques in Image Recognition", _Conference on Vision and Intelligent Systems (CVIS)_, Waterloo, Nov 2020.
 
 1. J Orchard, W Sun, N Liu, "[Why Aren't All Predictive Coding Networks Generative?](https://pgr-workshop.github.io/img/PGR010.pdf){:target="_blank"}", _NeurIPS Workshop on Perception as Generative Reasoning_, 6 pages, Vancouver, Dec 2019.

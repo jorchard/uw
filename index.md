@@ -7,7 +7,7 @@ title: Jeff Orchard
 ---
 
 
-<img src="images/Jeff_Sept2020_bricks_small.jpg" width="150px" align="right" style="margin: 0px 0px 0px 10px">
+<img src="images/Sept2022_hiking.jpg" height="160px" align="right" style="margin: 0px 0px 0px 10px">
 **Associate Professor**<br>
 &ensp;[David R. Cheriton School of Computer Science](http://cs.uwaterloo.ca){:target="_blank"}<br>
 &ensp;[University of Waterloo](http://uwaterloo.ca){:target="_blank"}<br>
@@ -15,6 +15,10 @@ title: Jeff Orchard
 &ensp;[Neurocognitive Computing Lab](http://neurocog.uwaterloo.ca){:target="_blank"}<br>
 **Core Member**<br>
 &ensp;[Centre for Theoretical Neuroscience](http://ctn.uwaterloo.ca){:target="_blank"}
+
+---
+
+**I am currently on sabbatical, visiting the [International Centre for Neuromorphic Systems](https://www.westernsydney.edu.au/icns){:target="_blank"} at [Western Sydney University](https://www.westernsydney.edu.au/){:target="_blank"}, Australia. I will be back on campus at Waterloo in February, 2023.**
 
 ---
 
