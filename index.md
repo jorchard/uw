@@ -7,7 +7,7 @@ title: Jeff Orchard
 ---
 
 
-<img src="images/Sept2022_hiking.jpg" height="160px" align="right" style="margin: 0px 0px 0px 10px">
+<img src="images/April2023_v1.jpg" height="160px" align="right" style="margin: 0px 0px 0px 10px">
 **Associate Professor**<br>
 &ensp;[David R. Cheriton School of Computer Science](http://cs.uwaterloo.ca){:target="_blank"}<br>
 &ensp;[University of Waterloo](http://uwaterloo.ca){:target="_blank"}<br>
@@ -18,7 +18,7 @@ title: Jeff Orchard
 
 ---
 
-**I am currently on sabbatical, visiting the [International Centre for Neuromorphic Systems](https://www.westernsydney.edu.au/icns){:target="_blank"} at [Western Sydney University](https://www.westernsydney.edu.au/){:target="_blank"}, Australia. I will be back on campus at Waterloo in February, 2023.**
+I recently got back from a 6-month sabbatical, visiting the [International Centre for Neuromorphic Systems](https://www.westernsydney.edu.au/icns){:target="_blank"} at [Western Sydney University](https://www.westernsydney.edu.au/){:target="_blank"}, Australia.
 
 ---
 
@@ -32,12 +32,15 @@ The ultimate goal is to find something akin to "_the theory of evolution_" for t
 
 My students and I form the [Neurocognitive Computing Lab](http://neurocog.uwaterloo.ca){:target="_blank"}. Through computational experiments and mathematical analysis, we try to understand the neurological basis of perception, cognition, and behaviour.
 
+___
+
+**Note**: If you intend to have me review some of your writing (like a thesis or report), you should be aware of the [most common mistakes that I see in technical writing](https://www.overleaf.com/read/zkwcphwjnbhb){:target="_blank"}. These are things that I will point out when reading your manuscript. Okay, you've been warned.
 
 ---
 
 ## More Details <a name="details">
 - BMath in [Applied Mathematics, University of Waterloo](https://uwaterloo.ca/applied-mathematics/){:target="_blank"}, 1994
-- [MSc](https://dx.doi.org/10.14288/1.0079674){:target="_blank"} in [Applied Mathematics, University of British Columbia](https://www.iam.ubc.ca/){:target="_blank"}, 1996
-- [PhD](http://summit.sfu.ca/item/7528){:target="_blank"} in [Computing Science, Simon Fraser University](http://www.sfu.ca/computing.html){:target="_blank"}, 2003
+- MSc in [Applied Mathematics, University of British Columbia](https://www.iam.ubc.ca/){:target="_blank"}, 1996 ([thesis](https://dx.doi.org/10.14288/1.0079674){:target="_blank"})
+- PhD in [Computing Science, Simon Fraser University](http://www.sfu.ca/computing.html){:target="_blank"}, 2003 ([thesis](http://summit.sfu.ca/item/7528){:target="_blank"})
 
 <!-- {% include news.html %} -->

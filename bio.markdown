@@ -33,4 +33,5 @@ A bonus was that my girlfriend's family lives in the Okanagan Valley.
 24. The first neuroscience [journal article](http://www.frontiersin.org/Journal/Abstract.aspx?s=237&name=computational_neuroscience&ART_DOI=10.3389/fncom.2013.00179&utm_source=Email_to_rerev_&utm_medium=Email&utm_content=T1_11.5e1_author1&utm_campaign=Email_publication) from my lab was published in 2013.
 25. Moved to Bristol, England (with family in tow) for 12-month sabbatical, 2013-2014. I was hosted by the [School of Experimental Psychology](http://www.bristol.ac.uk/psychology/), and was honoured with the title **IAS Benjamin Meaker Visiting Professor**.
 26. Moved back to Canada after my sabbatical.
-27. I was supposed to taking my family on another 12-month sabbatical to New Zealand. However, the coronavirus pandemic hit just a few months before, so it's been delayed.
+27. I was supposed to take my family on another 12-month sabbatical to New Zealand. However, the coronavirus pandemic hit just a few months before, so it's been delayed.
+28. Once the pandemic settled down, I took my family to Sydney, Australia, for a 6-month sabbatical (Aug 2022 - Jan 2023). I worked with the [International Centre for Neuromorphic Systems](https://www.westernsydney.edu.au/icns){:target="_blank"} at [Western Sydney University](https://www.westernsydney.edu.au/){:target="_blank"}.
