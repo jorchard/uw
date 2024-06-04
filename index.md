@@ -13,7 +13,7 @@ title: Jeff Orchard
 &ensp;[University of Waterloo](http://uwaterloo.ca){:target="_blank"}<br>
 **Director**<br>
 &ensp;[Neurocognitive Computing Lab](http://neurocog.uwaterloo.ca){:target="_blank"}<br>
-&ensp;[Mathematical Studies](https://uwaterloo.ca/math/academic-programs/math-studies){:target="_blank"}
+&ensp;[Mathematical Studies](https://uwaterloo.ca/math/academic-programs/math-studies){:target="_blank"}<br>
 **Core Member**<br>
 &ensp;[Centre for Theoretical Neuroscience](http://ctn.uwaterloo.ca){:target="_blank"}
 
