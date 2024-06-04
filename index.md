@@ -13,12 +13,13 @@ title: Jeff Orchard
 &ensp;[University of Waterloo](http://uwaterloo.ca){:target="_blank"}<br>
 **Director**<br>
 &ensp;[Neurocognitive Computing Lab](http://neurocog.uwaterloo.ca){:target="_blank"}<br>
+&ensp;[Mathematical Studies](https://uwaterloo.ca/math/academic-programs/math-studies){:target="_blank"}
 **Core Member**<br>
 &ensp;[Centre for Theoretical Neuroscience](http://ctn.uwaterloo.ca){:target="_blank"}
 
 ---
 
-I recently got back from a 6-month sabbatical, visiting the [International Centre for Neuromorphic Systems](https://www.westernsydney.edu.au/icns){:target="_blank"} at [Western Sydney University](https://www.westernsydney.edu.au/){:target="_blank"}, Australia.
+In 2022, I did a 6-month sabbatical in Australia, visiting the [International Centre for Neuromorphic Systems](https://www.westernsydney.edu.au/icns){:target="_blank"} at [Western Sydney University](https://www.westernsydney.edu.au/){:target="_blank"}.
 
 ---
 
